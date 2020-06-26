@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Habit1000</string>
+
+    <string name="trs">Trs</string>
+    <string name="tue">Tue</string>
+    <string name="mon">Mon</string>
+    <string name="wed">Wed</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+
+
+    <string name="habit_name">Habit Name</string>
+    <string name="textview">TextView</string>
+    <string name="create_habit">Create Habit</string>
+    <string name="habit">Habit :</string>
+    <string name="routine">Routine</string>
+    <string name="positive">Positive</string>
+    <string name="times">times</string>
+    <string name="repeat">Repeat :</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="day">day</string>
+    <string name="color">Color :</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="negative">Negative</string>
+    <string name="hobby">Hobby</string>
+    <string name="pick_a_color">Pick a Color</string>
+    <string name="update_reminder">Update Reminder</string>
+    <string name="update_habit">Update Habit</string>
+    <string name="update_color">Update Color</string>
+    <string name="_1">1</string>
+    <string name="time">Time</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>/>
+
+    <string name="achievement_3_hour">Achieved: 3 Hours Limit :) !</string>/>
+    <string name="achievement_1_day">Achieved: 1 Day Limit :) !</string>/>
+    <string name="achievement_3_day">Achieved: 3 Day Limit :) !</string>/>
+    <string name="achievement_1_week">Achieved: 1 Week Limit :) !</string>/>
+    <string name="achievement_10000_hour">Achieved: 10000 Hours Limit \\^o^/ !</string>
+    <string name="achievement_nothing">Nothing yet :(</string>/>
+
+    <string name="delete_all_alarms">Delete all alarms</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="set_date">Set Date (dd/mm/yyyy)</string>
+    <string name="set_time">Set Time</string>
+    <string name="no_alarm_set">No Alarm set</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="open_time_picker">open time picker</string>
+    <string name="cancel_alarm">cancel alarm</string>
+    <string name="alarm_name">Alarm Name</string>
+    <string name="hh_mm">hh:mm</string>
+
+
+</resources>

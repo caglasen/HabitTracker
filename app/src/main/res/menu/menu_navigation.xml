@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_habit"
+        android:title="Habit"
+        android:icon="@drawable/bottom_menu_ic_habit"/>
+
+    <item
+        android:id="@+id/menu_report"
+        android:title="Report"
+        android:icon="@drawable/bottom_menu_ic_report"/>
+
+    <item
+        android:id="@+id/menu_note"
+        android:title="Note"
+        android:icon="@drawable/bottom_menu_ic_note"/>
+
+    <item
+        android:id="@+id/menu_alarm"
+        android:title="Alarm"
+        android:icon="@drawable/bottom_menu_ic_alarm"/>
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="Profile"
+        android:icon="@drawable/bottom_menu_ic_profile"/>
+
+
+
+</menu>
